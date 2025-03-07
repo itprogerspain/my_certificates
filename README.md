@@ -1,2 +1,2 @@
-# Мои сертификаты
-Здесь будут храниться мои дипломы.
+# My certificates
+My diplomas will be kept here.
