@@ -1,2 +1,2 @@
 # My certificates
-My diplomas will be kept here.
+My certificates will be kept here.
